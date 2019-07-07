@@ -28,6 +28,26 @@
 
 
 
+## Install
+Here is the list of libraries you need to install to execute the code:
+- python = 3.6
+- cv2
+- numpy
+- scipy
+- matplotlib
+- scikit-image
+- natsort
+- math
+- datetime
+
+## Easy Usage
+1. Complete the running environment configuration;
+2. Put the inputs images to corresponding folders :
+  - (create 'InputImages' and 'OutputImages' folders, then the raw images to 'InputImages' folder);
+3. Python main.py;
+4. Find the enhanced/restored images in "OutputImages" folder.
+
+
 #### If these coded prove useful for your research, please cite our pre-printed review paper
 
 ```
@@ -38,7 +58,6 @@
     year      = {2019}
 }
 ```
-
 
 ## Authors
 - Yan Wang, e-mail: 19110860017@fudan.edu.cn
