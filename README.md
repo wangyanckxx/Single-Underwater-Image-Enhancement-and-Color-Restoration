@@ -41,5 +41,5 @@
 
 
 ## Authors
-Yan Wang, e-mail: 19110860017@fudan.edu.cn
-Wei Song, e-mail: wsong@shou.edu.cn
+- Yan Wang, e-mail: 19110860017@fudan.edu.cn
+- Wei Song, e-mail: wsong@shou.edu.cn
