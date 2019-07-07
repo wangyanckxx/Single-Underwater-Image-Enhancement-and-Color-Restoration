@@ -44,7 +44,7 @@ Here is the list of libraries you need to install to execute the code:
 ## Easy Usage
 1. Complete the running environment configuration;
 2. Put the inputs images to corresponding folders :
-  - (create 'InputImages' and 'OutputImages' folders, then the raw images to 'InputImages' folder);
+  - (create 'InputImages' and 'OutputImages' folders, then put raw images to 'InputImages' folder);
 3. Python main.py;
 4. Find the enhanced/restored images in "OutputImages" folder.
 
@@ -52,10 +52,10 @@ Here is the list of libraries you need to install to execute the code:
 #### If these coded prove useful for your research, please cite our pre-printed review paper
 
 ```
-@article{UlyanovVL17,
-    author    = {Wei Song, Yan Wang, Dongmei Huang, Antonio Liotta, Cristian Perra},
-    title     = {Enhancement of Underwater Images with Statistical Model of Background Light and Optimization of Transmission Map},
-    journal   = {arXiv:1906.08673},
+@article{Review of Image Enhancement and Image Restoration Methods,
+    author    = {Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta},
+    title     = {An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging},
+    journal   = {arXiv:****},
     year      = {2019}
 }
 ```
