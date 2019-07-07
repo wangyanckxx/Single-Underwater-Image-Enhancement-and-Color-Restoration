@@ -1,6 +1,6 @@
 <h1>Single-Underwater-Image-Enhancement-and-Color-Restoration</h1>
 
-#Python implementations of all mmethods
+##Python implementations of all mmethods
 
 ## Already Implemented
 
