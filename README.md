@@ -55,7 +55,7 @@ Here is the list of libraries you need to install to execute the code:
 @article{Review of Image Enhancement and Image Restoration Methods,
     author    = {Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta},
     title     = {An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging},
-    journal   = {arXiv:****},
+    journal   = {arXiv:1907.03246},
     year      = {2019}
 }
 ```
