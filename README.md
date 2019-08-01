@@ -55,10 +55,15 @@ Here is the list of libraries you need to install to execute the code:
 @article{Review of Image Enhancement and Image Restoration Methods,
     author    = {Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta},
     title     = {An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging},
+    journal   = {IEEE Access，DOI:10.1109/ACCESS.2019.2932130},
+    year      = {2019}
+}
+@article{Review of Image Enhancement and Image Restoration Methods,
+    author    = {Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta},
+    title     = {An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging},
     journal   = {arXiv:1907.03246},
     year      = {2019}
 }
-
 @article{Underwater Image Restoration,PCM2018
     author    = {Wei Song, Yan Wang,  Dongmei Huang, Tjondronegoro Dian},
     title     = {A Rapid Scene Depth Estimation Model Based on Underwater Light Attenuation Prior for Underwater Image Restoration},
