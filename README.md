@@ -49,7 +49,8 @@ Here is the list of libraries you need to install to execute the code:
 4. Find the enhanced/restored images in "OutputImages" folder.
 
 
-## If these codes prove useful for your research, please cite our pre-printed review paper and some related papers.
+## Citation
+If our database or code proves useful for your research, please cite our review papers and some related papers.
 
 ```
 @article{Review of Image Enhancement and Image Restoration Methods,
