@@ -23,9 +23,9 @@
 - GC: Gamma Correction
 - HE: Image enhancement by histogram transformation (2011)
 - ICM: Underwater Image Enhancement Using an Integrated Colour Model (2007)
-- RGHS: Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition (2018)
-- RayleighDistribution: Underwater image quality enhancement through composition of dual-intensity images and Rayleigh-stretching (2014)
 - UCM: Enhancing the low quality images using Unsupervised Colour Correction Method (2010)
+- RayleighDistribution: Underwater image quality enhancement through composition of dual-intensity images and Rayleigh-stretching (2014)
+- RGHS: Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition (2018)
 
 
 
@@ -59,10 +59,10 @@ If our database or code proves useful for your research, please cite our review 
     journal   = {IEEE Access，DOI:10.1109/ACCESS.2019.2932130},
     year      = {2019}
 }
-@article{Review of Image Enhancement and Image Restoration Methods,
-    author    = {Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta},
-    title     = {An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging},
-    journal   = {arXiv:1907.03246},
+@article{Underwater Image Enhancement Method,
+    author    = {Wei Song, Yan Wang, Dongmei Huang, Antonio Liotta, Cristian Perra},
+    title     = {Enhancement of Underwater Images with Statistical Model of Background Light and Optimization of Transmission Map},
+    journal   = {IEEE Transactions on Broadcasting},
     year      = {2019}
 }
 @article{Underwater Image Restoration,PCM2018
