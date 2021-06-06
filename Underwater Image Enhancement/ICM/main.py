@@ -32,4 +32,4 @@ for i in range(len(files)):
         # cv2.imwrite(folder + '/OutputImages/' + Number + 'Stretched.jpg', sceneRadiance)
         sceneRadiance = HSVStretching(sceneRadiance)
         sceneRadiance = sceneRadianceRGB(sceneRadiance)
-        cv2.imwrite('OutputImages/' + prefix + '_ICM.jpg', sceneRadiance)
+        cv2.imwrite(folder + '/OutputImages/' + prefix + '_ICM.jpg', sceneRadiance)
